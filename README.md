@@ -47,3 +47,34 @@
     • Integración de Laboratorio: Permite enviar y recibir resultados de exámenes de laboratorio de forma electrónica.
     • Telemedicina: Ofrece la posibilidad de agendar consultas virtuales y seguimiento remoto de pacientes.
     • Informes y Estadísticas: Genera informes y estadísticas sobre la actividad clínica y el estado de los pacientes.
+
+## Tecnologías UI/UX
+
+| Tecnología | Descripción |
+| --- | --- |
+| Figma | Figma es una herramienta de diseño de interfaces de usuario basada en la web que permite a los equipos de diseño colaborar en tiempo real. Es ampliamente utilizada para diseñar y crear prototipos de aplicaciones y sitios web. |
+
+## Control de Versiones (Git y GitHub) y Despliegue
+
+| Tecnología | Descripción |
+| --- | --- |
+| Git | Git es un sistema de control de versiones distribuido diseñado para manejar proyectos de cualquier tamaño con velocidad y eficiencia. |
+| GitHub | GitHub es una plataforma web basada en Git que ofrece alojamiento de código, seguimiento de problemas, gestión de proyectos y otras herramientas para colaborar en proyectos de software. |
+
+## Tecnologías de Front-end
+
+| Tecnología | Descripción |
+| --- | --- |
+| JavaScript | JavaScript es un lenguaje de programación ampliamente utilizado en el desarrollo web para agregar interactividad a las páginas web. |
+| HTML | HTML (HyperText Markup Language) es el lenguaje de marcado estándar utilizado para crear páginas web. Define la estructura y el contenido de una página web. |
+| CSS | CSS (Cascading Style Sheets) es un lenguaje de estilos utilizado para describir la presentación de documentos HTML. Controla el diseño, la apariencia y el formato de una página web. |
+| Tailwind | Tailwind CSS es un marco de CSS utilitario que permite construir diseños personalizados rápidamente. Proporciona clases de utilidad de bajo nivel que permiten crear diseños completamente personalizados sin escribir ningún CSS. |
+| React | React es una biblioteca de JavaScript de código abierto para construir interfaces de usuario. Es mantenida por Facebook y una comunidad de desarrolladores individuales y empresas. |
+| Redux | Redux es una biblioteca de gestión de estado para aplicaciones JavaScript, diseñada para ayudar a escribir aplicaciones escalables y mantenibles. |
+| Vite | Vite es una nueva herramienta de construcción que es mucho más rápida que las herramientas de construcción tradicionales como Webpack. Es especialmente adecuada para aplicaciones y sitios web modernos que utilizan marcos de JavaScript como React, Vue y Svelte. |
+
+## Tecnología de Backend (Firestore)
+
+| Tecnología | Descripción |
+| --- | --- |
+| Firestore | Firestore es una base de datos NoSQL en tiempo real escalable de Firebase, que permite almacenar y sincronizar datos en tiempo real entre tus usuarios. |
